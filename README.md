@@ -1,2 +1,2 @@
-# Brioche-Bakery-app
- Design and development of a mobile application using Android Studio for "Brioche Bakery"
+# Brioche-Bakery-app-src
+ source code in Java for mobile application using Android Studio for "Brioche Bakery"
